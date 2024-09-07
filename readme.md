@@ -12,7 +12,7 @@ As image shown
 Press ALT+1 (For me, defuat ALT+Y)
 ![image](https://github.com/user-attachments/assets/4ea20b87-1c2d-4b54-a080-e9541593f737)
 You can see all models you installed here, as if I already pre-installed some model.
-In here, head to folder liked thingy on right top corner. You didn't see one? Check your YSM version insure the newest from [modrinth](https://modrinth.com/mod/yes-steve-model) **REMEBER, Its a free mod, if you see any that ask you pay, please ignore**
+In here, head to folder liked thingy on right top corner. You didn't see one? Check your YSM version insure the newest from [modrinth.](https://modrinth.com/mod/yes-steve-model) **REMEBER, Its a free mod, if you see any that ask you pay, please ignore**
 Click open model folder
 
 ![image](https://github.com/user-attachments/assets/911b61d0-91ba-451a-a750-9d17ee0197b2)
