@@ -1,5 +1,5 @@
 Thanks credit from Elain69
-This is a **Fork** of [YSM Model repo](https://github.com/Elaina69/Yes-Steve-Model-Repo/) but in this version, it contains description of how and what are them
+as if this is a **Fork** of [YSM Model repo](https://github.com/Elaina69/Yes-Steve-Model-Repo/) but in this version, it contains description of how and what are them
 
 Pre: What are these? 
 They are either zip files or .YSM encrypted files that contain models and json file tells mod how to render the model.
