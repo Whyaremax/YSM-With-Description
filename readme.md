@@ -1,4 +1,4 @@
-THanks credit from Elain69
+Thanks credit from Elain69
 This is a **Fork** of [YSM Model repo](https://github.com/Elaina69/Yes-Steve-Model-Repo/) but in this version, it contains description of how and what are them
 
 Pre: What are these? 
