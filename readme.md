@@ -16,6 +16,7 @@ In here, head to folder liked thingy on right top corner. You didn't see one? Ch
 Click open model folder
 
 ![image](https://github.com/user-attachments/assets/911b61d0-91ba-451a-a750-9d17ee0197b2)
+
 This kind liked folder is going pop up and located at %appdata%\.minecraft\config\yes_steve_model\custom
 Now download model from this repo or orginal repo, I personally suggest orignal repo as support Elain69.
 Last not least click on the model you loaded, you're good to go!
@@ -26,8 +27,10 @@ Rejoin/Leave and load the world and then press hotkeys again, you would see mode
 Hint: some sneaky model creator would add mutlipe model to one, like this
 
 ![image](https://github.com/user-attachments/assets/6a7fb03c-95eb-46b7-b583-0d187dffbde5)
+
 In that case, to check, press the shirt-liked bar button
 ![image](https://github.com/user-attachments/assets/b2f67ccf-ac83-4fe0-83b4-10d38c010e7e)
+
 Then you would able see all animation + models
 
 Say you don't like the model? 
