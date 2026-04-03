@@ -24,7 +24,7 @@ Last not least click on the model you loaded, you're good to go!
 What? You already **Loaded** Minecraft before install model? You don't want **Restart**?
 Rejoin/Leave and load the world and then press hotkeys again, you would see models loaded
 
-Hint: some sneaky model creator would add mutlipe model to one, like this
+Note: some sneaky model creator would add mutlipe model to one, like this
 
 ![image](https://github.com/user-attachments/assets/6a7fb03c-95eb-46b7-b583-0d187dffbde5)
 
@@ -36,4 +36,4 @@ Then you would able see all animation + models
 Say you don't like the model? 
 Just simple remove it!
 
-**Notice before you leave, all model here is uploaded by Elain69 and according to I know, these are all free. If you incounter where website ask you pay for one of these model, please avoid**
+**Notice before you leave, all model here is uploaded by Elain69 and according to I know, these are all free. If you encounter where website ask you pay for one of these model, please avoid**
